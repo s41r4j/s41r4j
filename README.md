@@ -7,11 +7,14 @@
 - Developing open source tools *rad oayygzufk*                        <!-- CC bf -->
 - Connect w/ me on [twitter](https://twitter.com/s41r4j) or [instagram](https://instagram.com/s41r4j)
 - SELECT *chess* FROM *real_world* WHERE *capturing_the_flag* != 'easy'
-- The spacetime conceals me, for comets to erase the classfied
+
+<br>
+<br>
+
+> Hello Friend! The spacetime conceals me, for comets to erase the classfied rawness;
 
 <br>
 
-#### $ Hello Friend!
 |id|desc|
 |---|---|
 |[PH0MBER](https://github.com/s41r4j/phomber)|OSINT Framework|
