@@ -25,7 +25,7 @@
 
 ### $ Projects
 
-- [ph0mber](https://github.com/s41r4j/phomber): OSINT Framework
+- [phomber](https://github.com/s41r4j/phomber): OSINT Framework
 - [igbf](https://github.com/s41r4j/igbf): Instagram Brute Forcer (poc)
 - [simpex](https://github.com/s41r4j/simpex): Simple Regex
 
