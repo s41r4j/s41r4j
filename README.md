@@ -15,15 +15,29 @@
 
 <br>
 
-|id|desc|
-|---|---|
-|[PH0MBER](https://github.com/s41r4j/phomber)|OSINT Framework|
-|[igbf](https://github.com/s41r4j/igbf)|Instagram Brute Forcer (poc)|
+### $ readmes
+
+- [DSA](https://github.com/s41r4j/DSA): Data Structures & Algorithms
+- [passwords](https://github.com/s41r4j/passwords): Let's revolutionize PASSWORDS! 
 
 
 <br>
 
-#
+### $ projects
+
+- [ph0mber](https://github.com/s41r4j/phomber): OSINT Framework
+- [igbf](https://github.com/s41r4j/igbf): Instagram Brute Forcer (poc)
+- [simpex](https://github.com/s41r4j/simpex): Simple Regex
+
+<br>
+
+### $ games
+
+- [tictactoe](https://github.com/s41r4j/tictactoe): Tic-Tac-Toe pc game
+
+<br>
+
+
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
          <a style="margin-left: 10px;" target="_blank" href="https://github.com/s41r4j">
