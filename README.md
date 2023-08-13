@@ -15,7 +15,7 @@
 
 <br>
 
-### $ readmes
+### $ README
 
 - [DSA](https://github.com/s41r4j/DSA): Data Structures & Algorithms
 - [passwords](https://github.com/s41r4j/passwords): Let's revolutionize PASSWORDS! 
@@ -23,7 +23,7 @@
 
 <br>
 
-### $ projects
+### $ Projects
 
 - [ph0mber](https://github.com/s41r4j/phomber): OSINT Framework
 - [igbf](https://github.com/s41r4j/igbf): Instagram Brute Forcer (poc)
@@ -31,7 +31,7 @@
 
 <br>
 
-### $ games
+### $ Games
 
 - [tictactoe](https://github.com/s41r4j/tictactoe): Tic-Tac-Toe pc game
 
