@@ -2,11 +2,13 @@
 
 <!-- `Hello Friend!`; Let's play a GAME, can you find me! [hint: this message will be gone when game starts] -->
 
-### $ whoami
+### $ whoami 
 - Exploring the world of cyber security, *ejovj od omytrdyomh * gim*  <!-- SHIFT key is missing from ... -->
 - Developing open source tools *rad oayygzufk*                        <!-- CC bf -->
 - Connect w/ me on [@twitter](https://twitter.com/s41r4j) or [@instagram](https://instagram.com/s41r4j)
-- SELECT *chess* FROM *real_world* WHERE *capturing_the_flag* != 'easy'
+<!-- SELECT *chess* FROM *real_world* WHERE *capturing_the_flag* != 'easy' -->
+
+![Visitor Count](https://profile-counter.glitch.me/s41r4j/count.svg) 
 
 <br>
 <br>
