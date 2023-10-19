@@ -28,6 +28,7 @@
 ### $ Projects
 
 - [phomber](https://github.com/s41r4j/phomber): OSINT Framework
+- [wss](https://github.com/s41r4j/wss): WebScrapeSite
 - [webtools](https://s41r4j.github.io/webtools): Multiple useful tools
 - [igbf](https://github.com/s41r4j/igbf): Instagram Brute Forcer (poc)
 - [simpex](https://github.com/s41r4j/simpex): Simple Regex
